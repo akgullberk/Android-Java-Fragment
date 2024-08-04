@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-
+    
     public void goToFirst(View view){
 
     }
@@ -30,4 +30,6 @@ public class MainActivity extends AppCompatActivity {
     public void goToSecond(View view){
 
     }
+
+
 }
